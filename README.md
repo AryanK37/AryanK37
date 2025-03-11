@@ -3,10 +3,11 @@
 </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=waitnwatch&label=Profile%20views&color=0e75b6&style=flat" alt="AryanK37" /> </p>
-
+<!--
 <p align="center">
     <img src="AI.webp" width="800">
 </p>
+-->
 <p align="center">
     I'm a Dual Degree Student at (IIITH CND)<br>
     International Institute of Information Technology, Hyderabad, <br>
